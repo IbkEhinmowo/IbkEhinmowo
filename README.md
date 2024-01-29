@@ -3,4 +3,4 @@
 I'm [**Ibk**](https://ibkehinmowo.github.io/Portfolio-Site-modern/), a software engineer currrently based in Vancouver, Canada.
 
 #### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/ibukun-ehinmowo)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](google.com)
