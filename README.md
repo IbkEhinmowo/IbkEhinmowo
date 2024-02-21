@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ibk, a software developer based in Vancouver. I'm passionate about problem-solving and eager to apply my skills in JavaScript, Python, and React in a collaborative, entry-level software development environment."
+I'm Ibk, a software developer based in Vancouver. I'm passionate about problem-solving and eager to apply my skills in tech in a collaborative software development environment."
 
 
 ## 🌐 Socials:
