@@ -11,7 +11,7 @@ I'm Ibk, a software developer based in Vancouver. I'm passionate about problem-s
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ibkEhinmowo&theme=react&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibkEhinmowo&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
