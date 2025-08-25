@@ -1,19 +1,18 @@
 # 💫 About Me:
-I'm Ibk, a software developer based in Vancouver. I'm passionate about problem-solving and eager to apply my skills in tech in a collaborative software development environment."
+### Hey, I’m Ibukun 👋
 
+I’m a Computer Science student passionate about **building practical tools and backend systems** that solve real problems.  
+My focus is on **AI-driven workflows, automation, and scalable backend architecture**, with projects that bridge APIs, orchestration layers, and real-world integrations.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ehinmowo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibukun-ehinmowo) 
+🔹 **What I’m working on:**  
+- A **modular AI orchestration platform** with multi-channel support (Discord, Slack, CLI)  
+- **RAG-based context retrieval** for smarter assistants  
+- Scalable, containerized systems with observability and error recovery
 
-# 💻 Tech Stack:
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+🔹 **What I’m learning:**  
+- Advanced backend engineering (async Python, system design, CI/CD)  
+- LLM orchestration and agentic workflows  
+- Infrastructure fundamentals (Docker, deployment pipelines)
 
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibkEhinmowo&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ibkEhinmowo&icon=6&color=7)](https://visitcount.itsvg.in)
-
+🔹 **Fun fact:**  
+I like building tools I’d actually use. Most of my projects come from automating things I do every day.
