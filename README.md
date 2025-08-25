@@ -6,8 +6,8 @@ My work blends **AI-driven features** with **scalable engineering practices**, f
 
 🔹 **What I’m working on:**  
 - A **multi-channel orchestration platform** with pluggable APIs and per-user memory  
-- **Lightweight RAG pipelines** for better context in assistants and chatbots  
-- Scalable, containerized deployments with monitoring and error recovery  
+- **Lightweight RAG pipelines** for better context in Agentic Workflows  
+- Scalable, containerized and Automated deployments for simplicity 
 
 🔹 **What I enjoy:**  
 - Turning complex workflows into **simple, automated solutions**  
@@ -30,10 +30,9 @@ My work blends **AI-driven features** with **scalable engineering practices**, f
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ibkehinmowo&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ibkehinmowo&theme=shades-of-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibkehinmowo&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
