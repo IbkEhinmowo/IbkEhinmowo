@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hey, I’m Ibukun 👋
+### wagwan, I’m Ibk 👋
 
 I’m a Computer Science student passionate about **building practical tools and backend systems** that solve real problems.  
 My focus is on **AI-driven workflows, automation, and scalable backend architecture**, with projects that bridge APIs, orchestration layers, and real-world integrations.
