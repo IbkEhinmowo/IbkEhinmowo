@@ -1,5 +1,5 @@
-# 💫 About Me:
-### wagwan, I’m Ibk 👋
+#  🗣️About Me:
+### I’m Ibk 
 
 I’m a Computer Science student who likes building **practical tools, automation scripts, and backend systems** that actually get used.  
 My work blends **AI-driven features** with **scalable engineering practices**, focusing on reliability, modularity, and real-world integrations.
