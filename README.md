@@ -13,6 +13,7 @@ My work blends **AI-driven features** with **scalable engineering practices**, f
 - Turning complex workflows into **simple, automated solutions**  
 - Experimenting with **AI tools** to speed up development  
 - Building systems that are **easy to extend and maintain**
+- Money
 
 ---
 
