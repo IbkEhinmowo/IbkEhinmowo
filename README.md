@@ -1,7 +1,7 @@
 #  🗣️About Me:
 ### I’m Ibk 
 
-I’m a Computer Science student who likes building **practical tools, automation scripts, and backend systems** that actually get used.  
+I’m a Computer Science student who likes building **practical tools, automation scripts, Front & backend systems** that actually get used.  
 My work & learning blends **AI-driven features** with **scalable engineering practices**, focusing on reliability, modularity, and real-world integrations.
 
 🔹 **What I’m working on:**  
