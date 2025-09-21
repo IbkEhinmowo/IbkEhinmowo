@@ -13,8 +13,6 @@ My work & learning blends **AI-driven features** with **scalable engineering pra
 - Turning complex workflows into **simple, automated solutions**  
 - Experimenting with **AI tools** to speed up development  
 - Building systems that are **easy to extend and maintain**
-- Money
-
 ---
 
 # 💻 Tech Stack:
